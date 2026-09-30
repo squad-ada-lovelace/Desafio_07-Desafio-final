@@ -1,375 +1,375 @@
-,ID da pessoa,genero,idade,ocupacao,qualidade do sono,tempo diario de atividade fisica,nivel de estresse,classificacao do IMC,batimentos cardiacos,passos diarios,transtorno do sono,duracao do sono (min),pressao sistolica,pressao diastolica,categoria qualidade do sono
-0,1,masculino,27,engenheiro(a) de software,6,42,6,sobrepeso,77,4200,sem transtorno,366.0,126,83,moderada
-1,2,masculino,28,medico(a),6,60,8,peso normal,75,10000,sem transtorno,372.0,125,80,moderada
-2,3,masculino,28,medico(a),6,60,8,peso normal,75,10000,sem transtorno,372.0,125,80,moderada
-3,4,masculino,28,representante de vendas,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
-4,5,masculino,28,representante de vendas,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
-5,6,masculino,28,engenheiro(a) de software,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
-6,7,masculino,29,professor(a),6,40,7,obesidade,82,3500,com transtorno,378.0,140,90,moderada
-7,8,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-8,9,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-9,10,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-10,11,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,366.0,120,80,moderada
-11,12,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-12,13,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,366.0,120,80,moderada
-13,14,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
-14,15,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
-15,16,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
-16,17,feminino,29,enfermeiro(a),5,40,7,peso normal,80,4000,com transtorno,390.0,132,87,moderada
-17,18,masculino,29,medico(a),6,30,8,peso normal,70,8000,com transtorno,360.0,120,80,moderada
-18,19,feminino,29,enfermeiro(a),5,40,7,peso normal,80,4000,com transtorno,390.0,132,87,moderada
-19,20,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
-20,21,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-21,22,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-22,23,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-23,24,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-24,25,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-25,26,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
-26,27,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-27,28,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
-28,29,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
-29,30,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
-30,31,feminino,30,enfermeiro(a),5,35,7,peso normal,78,4100,com transtorno,384.0,130,86,moderada
-31,32,feminino,30,enfermeiro(a),5,35,7,peso normal,78,4100,com transtorno,384.0,130,86,moderada
-32,33,feminino,31,enfermeiro(a),8,75,4,peso normal,69,6800,sem transtorno,474.0,117,76,boa
-33,34,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-34,35,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-35,36,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-36,37,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-37,38,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
-38,39,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
-39,40,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
-40,41,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-41,42,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-42,43,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-43,44,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-44,45,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-45,46,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-46,47,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-47,48,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
-48,49,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-49,50,masculino,31,medico(a),7,75,6,peso normal,70,8000,com transtorno,462.0,120,80,boa
-50,51,masculino,32,engenheiro(a),8,45,3,peso normal,70,8000,sem transtorno,450.0,120,80,boa
-51,52,masculino,32,engenheiro(a),8,45,3,peso normal,70,8000,sem transtorno,450.0,120,80,boa
-52,53,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-53,54,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
-54,55,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-55,56,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-56,57,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-57,58,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-58,59,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-59,60,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
-60,61,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-61,62,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-62,63,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
-63,64,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
-64,65,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
-65,66,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
-66,67,masculino,32,contador(a),8,50,6,peso normal,68,7000,sem transtorno,432.0,118,76,boa
-67,68,masculino,33,medico(a),6,30,8,peso normal,72,5000,com transtorno,360.0,125,80,moderada
-68,69,feminino,33,cientista,6,50,6,sobrepeso,76,5500,sem transtorno,372.0,128,85,moderada
-69,70,feminino,33,cientista,6,50,6,sobrepeso,76,5500,sem transtorno,372.0,128,85,moderada
-70,71,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-71,72,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-72,73,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-73,74,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
-74,75,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-75,76,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-76,77,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-77,78,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-78,79,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-79,80,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
-80,81,feminino,34,cientista,4,32,8,sobrepeso,81,5200,com transtorno,348.0,131,86,ruim
-81,82,feminino,34,cientista,4,32,8,sobrepeso,81,5200,com transtorno,348.0,131,86,ruim
-82,83,masculino,35,professor(a),7,40,5,sobrepeso,70,5600,sem transtorno,402.0,128,84,boa
-83,84,masculino,35,professor(a),7,40,5,sobrepeso,70,5600,sem transtorno,402.0,128,84,boa
-84,85,masculino,35,engenheiro(a) de software,8,60,5,peso normal,70,8000,sem transtorno,450.0,120,80,boa
-85,86,feminino,35,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-86,87,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,432.0,125,80,boa
-87,88,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,432.0,125,80,boa
-88,89,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
-89,90,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
-90,91,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
-91,92,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
-92,93,masculino,35,engenheiro(a) de software,8,60,5,peso normal,70,8000,sem transtorno,450.0,120,80,boa
-93,94,masculino,35,advogado(a),7,60,5,obesidade,84,3300,com transtorno,444.0,135,88,boa
-94,95,feminino,36,contador(a),8,60,4,peso normal,68,7000,com transtorno,432.0,115,75,boa
-95,96,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-96,97,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-97,98,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-98,99,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-99,100,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-100,101,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-101,102,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-102,103,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-103,104,masculino,36,professor(a),5,35,7,sobrepeso,74,4800,com transtorno,396.0,129,84,moderada
-104,105,feminino,36,professor(a),8,60,4,peso normal,68,7000,com transtorno,432.0,115,75,boa
-105,106,masculino,36,professor(a),5,35,7,sobrepeso,74,4800,com transtorno,396.0,129,84,moderada
-106,107,feminino,37,enfermeiro(a),6,42,6,sobrepeso,77,4200,sem transtorno,366.0,126,83,moderada
-107,108,masculino,37,engenheiro(a),8,70,4,peso normal,68,7000,sem transtorno,468.0,120,80,boa
-108,109,masculino,37,engenheiro(a),8,70,4,peso normal,68,7000,sem transtorno,468.0,120,80,boa
-109,110,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
-110,111,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-111,112,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
-112,113,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-113,114,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
-114,115,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-115,116,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-116,117,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-117,118,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-118,119,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-119,120,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-120,121,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-121,122,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-122,123,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-123,124,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-124,125,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
-125,126,feminino,37,enfermeiro(a),8,60,4,peso normal,70,8000,sem transtorno,450.0,120,80,boa
-126,127,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-127,128,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-128,129,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-129,130,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-130,131,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-131,132,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-132,133,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-133,134,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-134,135,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-135,136,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
-136,137,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-137,138,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
-138,139,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-139,140,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
-140,141,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-141,142,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
-142,143,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-143,144,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
-144,145,masculino,38,advogado(a),8,60,5,peso normal,68,8000,com transtorno,426.0,130,85,boa
-145,146,feminino,38,advogado(a),7,60,5,obesidade,84,3300,com transtorno,444.0,135,88,boa
-146,147,masculino,39,advogado(a),8,60,5,peso normal,68,8000,com transtorno,432.0,130,85,boa
-147,148,masculino,39,engenheiro(a),5,40,7,sobrepeso,80,4000,com transtorno,390.0,132,87,moderada
-148,149,feminino,39,advogado(a),7,50,6,peso normal,75,5500,sem transtorno,414.0,128,85,boa
-149,150,feminino,39,contador(a),9,80,3,peso normal,67,7500,sem transtorno,480.0,115,78,boa
-150,151,feminino,39,contador(a),9,80,3,peso normal,67,7500,sem transtorno,480.0,115,78,boa
-151,152,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-152,153,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-153,154,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-154,155,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-155,156,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-156,157,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-157,158,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-158,159,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-159,160,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-160,161,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
-161,162,feminino,40,contador(a),8,55,6,peso normal,73,7300,sem transtorno,432.0,119,77,boa
-162,163,feminino,40,contador(a),8,55,6,peso normal,73,7300,sem transtorno,432.0,119,77,boa
-163,164,masculino,40,advogado(a),8,90,5,peso normal,68,8000,sem transtorno,474.0,130,85,boa
-164,165,masculino,40,advogado(a),8,90,5,peso normal,68,8000,sem transtorno,474.0,130,85,boa
-165,166,masculino,41,advogado(a),8,90,5,peso normal,70,8000,com transtorno,456.0,130,85,boa
-166,167,masculino,41,engenheiro(a),8,70,6,peso normal,72,6200,sem transtorno,438.0,121,79,boa
-167,168,masculino,41,advogado(a),7,55,6,sobrepeso,72,6000,sem transtorno,426.0,125,82,boa
-168,169,masculino,41,advogado(a),7,55,6,sobrepeso,72,6000,sem transtorno,426.0,125,82,boa
-169,170,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-170,171,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-171,172,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-172,173,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-173,174,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-174,175,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
-175,176,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
-176,177,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
-177,178,masculino,42,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-178,179,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-179,180,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-180,181,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-181,182,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-182,183,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-183,184,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-184,185,feminino,42,professor(a),6,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,moderada
-185,186,feminino,42,professor(a),6,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,moderada
-186,187,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
-187,188,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-188,189,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
-189,190,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-190,191,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
-191,192,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-192,193,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-193,194,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-194,195,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-195,196,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-196,197,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-197,198,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-198,199,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-199,200,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-200,201,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-201,202,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
-202,203,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
-203,204,masculino,43,engenheiro(a),6,47,7,peso normal,69,6800,sem transtorno,414.0,117,76,moderada
-204,205,masculino,43,engenheiro(a),8,75,4,sobrepeso,68,6800,sem transtorno,456.0,122,80,boa
-205,206,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-206,207,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-207,208,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-208,209,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-209,210,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-210,211,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
-211,212,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-212,213,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-213,214,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-214,215,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-215,216,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-216,217,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-217,218,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
-218,219,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
-219,220,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
-220,221,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-221,222,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-222,223,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-223,224,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-224,225,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-225,226,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-226,227,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-227,228,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-228,229,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-229,230,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-230,231,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-231,232,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-232,233,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-233,234,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-234,235,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-235,236,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-236,237,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-237,238,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-238,239,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-239,240,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-240,241,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-241,242,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-242,243,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
-243,244,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-244,245,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-245,246,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-246,247,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
-247,248,masculino,44,engenheiro(a),7,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,boa
-248,249,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,sem transtorno,384.0,130,85,moderada
-249,250,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,sem transtorno,390.0,130,85,moderada
-250,251,feminino,45,professor(a),7,30,6,sobrepeso,65,6000,com transtorno,408.0,135,90,boa
-251,252,feminino,45,professor(a),7,30,6,sobrepeso,65,6000,com transtorno,408.0,135,90,boa
-252,253,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-253,254,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-254,255,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-255,256,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
-256,257,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-257,258,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-258,259,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-259,260,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-260,261,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
-261,262,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,sem transtorno,396.0,135,90,boa
-262,263,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,sem transtorno,396.0,135,90,boa
-263,264,feminino,45,gerente,7,55,5,sobrepeso,75,5500,sem transtorno,414.0,125,82,boa
-264,265,masculino,48,medico(a),7,65,5,obesidade,83,3500,com transtorno,438.0,142,92,boa
-265,266,feminino,48,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,354.0,140,95,moderada
-266,267,masculino,48,medico(a),7,65,5,obesidade,83,3500,com transtorno,438.0,142,92,boa
-267,268,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,sem transtorno,372.0,140,95,moderada
-268,269,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-269,270,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-270,271,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-271,272,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-272,273,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-273,274,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
-274,275,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
-275,276,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
-276,277,masculino,49,medico(a),9,85,3,obesidade,86,3700,com transtorno,486.0,139,91,boa
-277,278,masculino,49,medico(a),9,85,3,obesidade,86,3700,com transtorno,486.0,139,91,boa
-278,279,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-279,280,feminino,50,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
-280,281,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,sem transtorno,360.0,140,95,moderada
-281,282,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-282,283,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-283,284,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-284,285,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-285,286,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-286,287,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-287,288,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-288,289,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-289,290,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-290,291,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-291,292,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-292,293,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-293,294,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-294,295,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-295,296,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-296,297,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-297,298,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-298,299,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-299,300,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-300,301,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-301,302,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-302,303,feminino,51,enfermeiro(a),7,55,6,peso normal,72,6000,sem transtorno,426.0,125,82,boa
-303,304,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
-304,305,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-305,306,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
-306,307,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,boa
-307,308,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,boa
-308,309,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
-309,310,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
-310,311,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
-311,312,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
-312,313,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-313,314,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-314,315,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-315,316,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,com transtorno,498.00000000000006,125,80,boa
-316,317,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-317,318,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-318,319,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-319,320,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-320,321,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-321,322,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-322,323,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-323,324,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-324,325,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
-325,326,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-326,327,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
-327,328,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-328,329,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
-329,330,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-330,331,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-331,332,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-332,333,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-333,334,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-334,335,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-335,336,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-336,337,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-337,338,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
-338,339,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
-339,340,feminino,55,enfermeiro(a),9,75,4,sobrepeso,72,5000,com transtorno,486.0,140,95,boa
-340,341,feminino,55,enfermeiro(a),9,75,4,sobrepeso,72,5000,com transtorno,486.0,140,95,boa
-341,342,feminino,56,medico(a),9,90,3,peso normal,65,10000,sem transtorno,491.99999999999994,118,75,boa
-342,343,feminino,56,medico(a),9,90,3,peso normal,65,10000,sem transtorno,491.99999999999994,118,75,boa
-343,344,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,486.0,140,95,boa
-344,345,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-345,346,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-346,347,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-347,348,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-348,349,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-349,350,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-350,351,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-351,352,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-352,353,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-353,354,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-354,355,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-355,356,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-356,357,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-357,358,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-358,359,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,480.0,140,95,boa
-359,360,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,486.0,140,95,boa
-360,361,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-361,362,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-362,363,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-363,364,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
-364,365,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-365,366,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-366,367,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-367,368,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-368,369,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-369,370,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-370,371,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
-371,372,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-372,373,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
-373,374,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+ID da pessoa,genero,idade,ocupacao,qualidade do sono,tempo diario de atividade fisica,nivel de estresse,classificacao do IMC,batimentos cardiacos,passos diarios,transtorno do sono,duracao do sono (min),pressao sistolica,pressao diastolica,categoria qualidade do sono
+1,masculino,27,engenheiro(a) de software,6,42,6,sobrepeso,77,4200,sem transtorno,366.0,126,83,moderada
+2,masculino,28,medico(a),6,60,8,peso normal,75,10000,sem transtorno,372.0,125,80,moderada
+3,masculino,28,medico(a),6,60,8,peso normal,75,10000,sem transtorno,372.0,125,80,moderada
+4,masculino,28,representante de vendas,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
+5,masculino,28,representante de vendas,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
+6,masculino,28,engenheiro(a) de software,4,30,8,obesidade,85,3000,com transtorno,354.0,140,90,ruim
+7,masculino,29,professor(a),6,40,7,obesidade,82,3500,com transtorno,378.0,140,90,moderada
+8,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+9,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+10,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+11,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,366.0,120,80,moderada
+12,masculino,29,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+13,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,366.0,120,80,moderada
+14,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
+15,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
+16,masculino,29,medico(a),6,30,8,peso normal,70,8000,sem transtorno,360.0,120,80,moderada
+17,feminino,29,enfermeiro(a),5,40,7,peso normal,80,4000,com transtorno,390.0,132,87,moderada
+18,masculino,29,medico(a),6,30,8,peso normal,70,8000,com transtorno,360.0,120,80,moderada
+19,feminino,29,enfermeiro(a),5,40,7,peso normal,80,4000,com transtorno,390.0,132,87,moderada
+20,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
+21,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+22,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+23,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+24,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+25,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+26,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
+27,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+28,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
+29,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
+30,masculino,30,medico(a),7,75,6,peso normal,70,8000,sem transtorno,474.0,120,80,boa
+31,feminino,30,enfermeiro(a),5,35,7,peso normal,78,4100,com transtorno,384.0,130,86,moderada
+32,feminino,30,enfermeiro(a),5,35,7,peso normal,78,4100,com transtorno,384.0,130,86,moderada
+33,feminino,31,enfermeiro(a),8,75,4,peso normal,69,6800,sem transtorno,474.0,117,76,boa
+34,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+35,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+36,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+37,masculino,31,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+38,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
+39,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
+40,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
+41,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+42,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+43,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+44,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+45,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+46,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+47,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+48,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,468.0,120,80,boa
+49,masculino,31,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+50,masculino,31,medico(a),7,75,6,peso normal,70,8000,com transtorno,462.0,120,80,boa
+51,masculino,32,engenheiro(a),8,45,3,peso normal,70,8000,sem transtorno,450.0,120,80,boa
+52,masculino,32,engenheiro(a),8,45,3,peso normal,70,8000,sem transtorno,450.0,120,80,boa
+53,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+54,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,456.0,120,80,boa
+55,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+56,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+57,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+58,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+59,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+60,masculino,32,medico(a),7,75,6,peso normal,70,8000,sem transtorno,462.0,120,80,boa
+61,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+62,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+63,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
+64,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
+65,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
+66,masculino,32,medico(a),6,30,8,peso normal,72,5000,sem transtorno,372.0,125,80,moderada
+67,masculino,32,contador(a),8,50,6,peso normal,68,7000,sem transtorno,432.0,118,76,boa
+68,masculino,33,medico(a),6,30,8,peso normal,72,5000,com transtorno,360.0,125,80,moderada
+69,feminino,33,cientista,6,50,6,sobrepeso,76,5500,sem transtorno,372.0,128,85,moderada
+70,feminino,33,cientista,6,50,6,sobrepeso,76,5500,sem transtorno,372.0,128,85,moderada
+71,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+72,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+73,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+74,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,366.0,125,80,moderada
+75,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+76,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+77,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+78,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+79,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+80,masculino,33,medico(a),6,30,8,peso normal,72,5000,sem transtorno,360.0,125,80,moderada
+81,feminino,34,cientista,4,32,8,sobrepeso,81,5200,com transtorno,348.0,131,86,ruim
+82,feminino,34,cientista,4,32,8,sobrepeso,81,5200,com transtorno,348.0,131,86,ruim
+83,masculino,35,professor(a),7,40,5,sobrepeso,70,5600,sem transtorno,402.0,128,84,boa
+84,masculino,35,professor(a),7,40,5,sobrepeso,70,5600,sem transtorno,402.0,128,84,boa
+85,masculino,35,engenheiro(a) de software,8,60,5,peso normal,70,8000,sem transtorno,450.0,120,80,boa
+86,feminino,35,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+87,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,432.0,125,80,boa
+88,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,432.0,125,80,boa
+89,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
+90,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
+91,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
+92,masculino,35,engenheiro(a),8,60,4,peso normal,65,5000,sem transtorno,438.0,125,80,boa
+93,masculino,35,engenheiro(a) de software,8,60,5,peso normal,70,8000,sem transtorno,450.0,120,80,boa
+94,masculino,35,advogado(a),7,60,5,obesidade,84,3300,com transtorno,444.0,135,88,boa
+95,feminino,36,contador(a),8,60,4,peso normal,68,7000,com transtorno,432.0,115,75,boa
+96,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+97,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+98,feminino,36,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+99,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+100,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+101,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+102,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+103,feminino,36,professor(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+104,masculino,36,professor(a),5,35,7,sobrepeso,74,4800,com transtorno,396.0,129,84,moderada
+105,feminino,36,professor(a),8,60,4,peso normal,68,7000,com transtorno,432.0,115,75,boa
+106,masculino,36,professor(a),5,35,7,sobrepeso,74,4800,com transtorno,396.0,129,84,moderada
+107,feminino,37,enfermeiro(a),6,42,6,sobrepeso,77,4200,sem transtorno,366.0,126,83,moderada
+108,masculino,37,engenheiro(a),8,70,4,peso normal,68,7000,sem transtorno,468.0,120,80,boa
+109,masculino,37,engenheiro(a),8,70,4,peso normal,68,7000,sem transtorno,468.0,120,80,boa
+110,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
+111,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+112,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
+113,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+114,masculino,37,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,444.0,130,85,boa
+115,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+116,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+117,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+118,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+119,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+120,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+121,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+122,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+123,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+124,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+125,feminino,37,contador(a),8,60,4,peso normal,68,7000,sem transtorno,432.0,115,75,boa
+126,feminino,37,enfermeiro(a),8,60,4,peso normal,70,8000,sem transtorno,450.0,120,80,boa
+127,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+128,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+129,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+130,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+131,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+132,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+133,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+134,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+135,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+136,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,438.0,130,85,boa
+137,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+138,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
+139,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+140,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
+141,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+142,masculino,38,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,426.0,130,85,boa
+143,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+144,feminino,38,contador(a),8,60,4,peso normal,68,7000,sem transtorno,426.0,115,75,boa
+145,masculino,38,advogado(a),8,60,5,peso normal,68,8000,com transtorno,426.0,130,85,boa
+146,feminino,38,advogado(a),7,60,5,obesidade,84,3300,com transtorno,444.0,135,88,boa
+147,masculino,39,advogado(a),8,60,5,peso normal,68,8000,com transtorno,432.0,130,85,boa
+148,masculino,39,engenheiro(a),5,40,7,sobrepeso,80,4000,com transtorno,390.0,132,87,moderada
+149,feminino,39,advogado(a),7,50,6,peso normal,75,5500,sem transtorno,414.0,128,85,boa
+150,feminino,39,contador(a),9,80,3,peso normal,67,7500,sem transtorno,480.0,115,78,boa
+151,feminino,39,contador(a),9,80,3,peso normal,67,7500,sem transtorno,480.0,115,78,boa
+152,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+153,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+154,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+155,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+156,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+157,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+158,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+159,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+160,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+161,masculino,39,advogado(a),8,60,5,peso normal,68,8000,sem transtorno,432.0,130,85,boa
+162,feminino,40,contador(a),8,55,6,peso normal,73,7300,sem transtorno,432.0,119,77,boa
+163,feminino,40,contador(a),8,55,6,peso normal,73,7300,sem transtorno,432.0,119,77,boa
+164,masculino,40,advogado(a),8,90,5,peso normal,68,8000,sem transtorno,474.0,130,85,boa
+165,masculino,40,advogado(a),8,90,5,peso normal,68,8000,sem transtorno,474.0,130,85,boa
+166,masculino,41,advogado(a),8,90,5,peso normal,70,8000,com transtorno,456.0,130,85,boa
+167,masculino,41,engenheiro(a),8,70,6,peso normal,72,6200,sem transtorno,438.0,121,79,boa
+168,masculino,41,advogado(a),7,55,6,sobrepeso,72,6000,sem transtorno,426.0,125,82,boa
+169,masculino,41,advogado(a),7,55,6,sobrepeso,72,6000,sem transtorno,426.0,125,82,boa
+170,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+171,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+172,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+173,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+174,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+175,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
+176,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
+177,masculino,41,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,456.0,130,85,boa
+178,masculino,42,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+179,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+180,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+181,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+182,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+183,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+184,masculino,42,advogado(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+185,feminino,42,professor(a),6,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,moderada
+186,feminino,42,professor(a),6,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,moderada
+187,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
+188,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+189,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
+190,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+191,feminino,43,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,402.0,135,90,boa
+192,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+193,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+194,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+195,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+196,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+197,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+198,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+199,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+200,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+201,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+202,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
+203,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
+204,masculino,43,engenheiro(a),6,47,7,peso normal,69,6800,sem transtorno,414.0,117,76,moderada
+205,masculino,43,engenheiro(a),8,75,4,sobrepeso,68,6800,sem transtorno,456.0,122,80,boa
+206,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+207,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+208,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+209,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+210,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+211,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,462.0,130,85,boa
+212,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+213,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+214,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+215,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+216,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+217,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+218,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,sem transtorno,468.0,130,85,boa
+219,masculino,43,engenheiro(a),8,90,5,peso normal,70,8000,com transtorno,468.0,130,85,boa
+220,masculino,43,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,moderada
+221,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+222,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+223,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+224,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+225,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+226,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+227,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+228,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+229,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+230,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+231,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+232,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+233,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+234,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+235,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+236,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+237,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+238,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+239,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+240,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+241,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+242,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+243,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,384.0,130,85,moderada
+244,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+245,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+246,feminino,44,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+247,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,com transtorno,378.0,130,85,moderada
+248,masculino,44,engenheiro(a),7,45,7,sobrepeso,78,5000,com transtorno,408.0,130,85,boa
+249,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,sem transtorno,384.0,130,85,moderada
+250,masculino,44,vendedor(a),6,45,7,sobrepeso,72,6000,sem transtorno,390.0,130,85,moderada
+251,feminino,45,professor(a),7,30,6,sobrepeso,65,6000,com transtorno,408.0,135,90,boa
+252,feminino,45,professor(a),7,30,6,sobrepeso,65,6000,com transtorno,408.0,135,90,boa
+253,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+254,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+255,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+256,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,390.0,135,90,boa
+257,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+258,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+259,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+260,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+261,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,com transtorno,396.0,135,90,boa
+262,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,sem transtorno,396.0,135,90,boa
+263,feminino,45,professor(a),7,45,4,sobrepeso,65,6000,sem transtorno,396.0,135,90,boa
+264,feminino,45,gerente,7,55,5,sobrepeso,75,5500,sem transtorno,414.0,125,82,boa
+265,masculino,48,medico(a),7,65,5,obesidade,83,3500,com transtorno,438.0,142,92,boa
+266,feminino,48,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,354.0,140,95,moderada
+267,masculino,48,medico(a),7,65,5,obesidade,83,3500,com transtorno,438.0,142,92,boa
+268,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,sem transtorno,372.0,140,95,moderada
+269,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+270,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+271,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+272,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+273,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+274,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
+275,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
+276,feminino,49,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,372.0,140,95,moderada
+277,masculino,49,medico(a),9,85,3,obesidade,86,3700,com transtorno,486.0,139,91,boa
+278,masculino,49,medico(a),9,85,3,obesidade,86,3700,com transtorno,486.0,139,91,boa
+279,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+280,feminino,50,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
+281,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,sem transtorno,360.0,140,95,moderada
+282,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+283,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+284,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+285,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+286,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+287,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+288,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+289,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+290,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+291,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+292,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+293,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+294,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+295,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+296,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+297,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+298,feminino,50,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+299,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+300,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+301,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+302,feminino,51,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+303,feminino,51,enfermeiro(a),7,55,6,peso normal,72,6000,sem transtorno,426.0,125,82,boa
+304,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,360.0,140,95,moderada
+305,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+306,feminino,51,enfermeiro(a),6,90,8,sobrepeso,75,10000,com transtorno,366.0,140,95,moderada
+307,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,boa
+308,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,390.0,130,85,boa
+309,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
+310,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
+311,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
+312,feminino,52,contador(a),7,45,7,sobrepeso,72,6000,com transtorno,396.0,130,85,boa
+313,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+314,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+315,feminino,52,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+316,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,com transtorno,498.00000000000006,125,80,boa
+317,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+318,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+319,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+320,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+321,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+322,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+323,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+324,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+325,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
+326,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+327,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
+328,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+329,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,498.00000000000006,125,80,boa
+330,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+331,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+332,feminino,53,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+333,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+334,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+335,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+336,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+337,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+338,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,504.0,125,80,boa
+339,feminino,54,engenheiro(a),9,30,3,peso normal,65,5000,sem transtorno,510.0,125,80,boa
+340,feminino,55,enfermeiro(a),9,75,4,sobrepeso,72,5000,com transtorno,486.0,140,95,boa
+341,feminino,55,enfermeiro(a),9,75,4,sobrepeso,72,5000,com transtorno,486.0,140,95,boa
+342,feminino,56,medico(a),9,90,3,peso normal,65,10000,sem transtorno,491.99999999999994,118,75,boa
+343,feminino,56,medico(a),9,90,3,peso normal,65,10000,sem transtorno,491.99999999999994,118,75,boa
+344,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,486.0,140,95,boa
+345,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+346,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+347,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+348,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+349,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+350,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+351,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+352,feminino,57,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+353,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+354,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+355,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+356,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+357,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+358,feminino,58,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+359,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,480.0,140,95,boa
+360,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,sem transtorno,486.0,140,95,boa
+361,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+362,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+363,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+364,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,491.99999999999994,140,95,boa
+365,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+366,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+367,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+368,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+369,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+370,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+371,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,480.0,140,95,boa
+372,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+373,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
+374,feminino,59,enfermeiro(a),9,75,3,sobrepeso,68,7000,com transtorno,486.0,140,95,boa
