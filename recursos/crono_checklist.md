@@ -4,7 +4,18 @@
 - Verificar tipos de dados, distribuição das variáveis e presença de nulos (df.info(), df.describe(), df.isnull().sum()).
 - Mapear a variável alvo: O dataset original traz a coluna de qualidade do sono (Quality of Sleep [1-10]) ou o distúrbio de sono (Sleep Disorder). De acordo com as instruções do desafio:
     - Criar a classe categorizada para a **Qualidade do Sono: Ruim (0-4), Moderada (5-6) e Boa (7-10)**.
-- Gerar uma matriz de correlação simples e alguns boxplots rápidos (ex: Estresse vs Qualidade do Sono, Idade vs Qualidade do Sono) para responder às perguntas de Análise Exploratória do item 1.   
+- Gerar uma matriz de correlação simples e alguns boxplots rápidos (ex: Estresse vs Qualidade do Sono, Idade vs Qualidade do Sono) para responder às perguntas de Análise Exploratória do item 1.
+
+Observações do dia:
+- Squad
+    - Definiu-se que vamos fazer sessões síncronas a partir de segunda (05/10)
+
+- Processamento e análise exploratória
+    - Rodando um df.corr() nas variáveis numéricas, aparentemente há uma correlação negativa bem forte entre **qualidade do sono** e **estresse** (-0,9). Levemente negativa entre **qualidade do sono** e **batimentos cardíacos** (-0,66) e fortemente positiva entre **qualidade do sono** e **duração do sono** (0,88)
+
+- Questões
+    - Como dividir a idade em faixas? É preciso? Algumas saídas podem ser talvez ver como a idade reage a correlação.
+    - Percebo que provavelmente vamos precisar de um campo para pressão baixa, normal e alta.
 
 ## 03/10 (sábado)
 
