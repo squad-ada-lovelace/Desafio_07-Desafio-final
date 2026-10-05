@@ -41,8 +41,9 @@ Observações do dia:
 - Removi as seguintes colunas:
     - 'ID da pessoa', , 'pressao sistolica', 'pressao diastolica'
     - 'qualidade do sono', 'duracao do sono (min)'
-## 04/10 (domingo)
-
+- Talvez seja bom voltar com a coluna de qualidade do sono e retirar a classificação de qualidade 
+## 06/10 (terça)
+- Pretendo fazer o encoding e tratamento das variáveis 
 ## Checklist
 
 - Análise Exploratória:
