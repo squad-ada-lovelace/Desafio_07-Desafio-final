@@ -1,0 +1,375 @@
+,genero,idade,ocupacao,tempo diario de atividade fisica,nivel de estresse,classificacao do IMC,batimentos cardiacos,passos diarios,transtorno do sono,categoria qualidade do sono,classificacao pressao
+0,masculino,27,engenheiro(a) de software,42,6,sobrepeso,77,4200,sem transtorno,moderada,pré-hipertensão
+1,masculino,28,medico(a),60,8,peso normal,75,10000,sem transtorno,moderada,normal
+2,masculino,28,medico(a),60,8,peso normal,75,10000,sem transtorno,moderada,normal
+3,masculino,28,representante de vendas,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+4,masculino,28,representante de vendas,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+5,masculino,28,engenheiro(a) de software,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+6,masculino,29,professor(a),40,7,obesidade,82,3500,com transtorno,moderada,hipertensão estágio 1
+7,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+8,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+9,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+10,masculino,29,medico(a),30,8,peso normal,70,8000,sem transtorno,moderada,normal
+11,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+12,masculino,29,medico(a),30,8,peso normal,70,8000,sem transtorno,moderada,normal
+13,masculino,29,medico(a),30,8,peso normal,70,8000,sem transtorno,moderada,normal
+14,masculino,29,medico(a),30,8,peso normal,70,8000,sem transtorno,moderada,normal
+15,masculino,29,medico(a),30,8,peso normal,70,8000,sem transtorno,moderada,normal
+16,feminino,29,enfermeiro(a),40,7,peso normal,80,4000,com transtorno,moderada,pré-hipertensão
+17,masculino,29,medico(a),30,8,peso normal,70,8000,com transtorno,moderada,normal
+18,feminino,29,enfermeiro(a),40,7,peso normal,80,4000,com transtorno,moderada,pré-hipertensão
+19,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+20,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+21,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+22,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+23,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+24,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+25,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+26,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+27,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+28,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+29,masculino,30,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+30,feminino,30,enfermeiro(a),35,7,peso normal,78,4100,com transtorno,moderada,pré-hipertensão
+31,feminino,30,enfermeiro(a),35,7,peso normal,78,4100,com transtorno,moderada,pré-hipertensão
+32,feminino,31,enfermeiro(a),75,4,peso normal,69,6800,sem transtorno,boa,normal
+33,masculino,31,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+34,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+35,masculino,31,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+36,masculino,31,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+37,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+38,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+39,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+40,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+41,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+42,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+43,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+44,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+45,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+46,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+47,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+48,masculino,31,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+49,masculino,31,medico(a),75,6,peso normal,70,8000,com transtorno,boa,normal
+50,masculino,32,engenheiro(a),45,3,peso normal,70,8000,sem transtorno,boa,normal
+51,masculino,32,engenheiro(a),45,3,peso normal,70,8000,sem transtorno,boa,normal
+52,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+53,masculino,32,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+54,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+55,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+56,masculino,32,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+57,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+58,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+59,masculino,32,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
+60,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+61,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+62,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+63,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+64,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+65,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+66,masculino,32,contador(a),50,6,peso normal,68,7000,sem transtorno,boa,normal
+67,masculino,33,medico(a),30,8,peso normal,72,5000,com transtorno,moderada,normal
+68,feminino,33,cientista,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
+69,feminino,33,cientista,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
+70,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+71,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+72,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+73,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+74,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+75,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+76,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+77,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+78,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+79,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
+80,feminino,34,cientista,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
+81,feminino,34,cientista,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
+82,masculino,35,professor(a),40,5,sobrepeso,70,5600,sem transtorno,boa,pré-hipertensão
+83,masculino,35,professor(a),40,5,sobrepeso,70,5600,sem transtorno,boa,pré-hipertensão
+84,masculino,35,engenheiro(a) de software,60,5,peso normal,70,8000,sem transtorno,boa,normal
+85,feminino,35,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+86,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+87,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+88,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+89,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+90,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+91,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
+92,masculino,35,engenheiro(a) de software,60,5,peso normal,70,8000,sem transtorno,boa,normal
+93,masculino,35,advogado(a),60,5,obesidade,84,3300,com transtorno,boa,pré-hipertensão
+94,feminino,36,contador(a),60,4,peso normal,68,7000,com transtorno,boa,normal
+95,feminino,36,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+96,feminino,36,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+97,feminino,36,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+98,feminino,36,professor(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+99,feminino,36,professor(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+100,feminino,36,professor(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+101,feminino,36,professor(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+102,feminino,36,professor(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+103,masculino,36,professor(a),35,7,sobrepeso,74,4800,com transtorno,moderada,pré-hipertensão
+104,feminino,36,professor(a),60,4,peso normal,68,7000,com transtorno,boa,normal
+105,masculino,36,professor(a),35,7,sobrepeso,74,4800,com transtorno,moderada,pré-hipertensão
+106,feminino,37,enfermeiro(a),42,6,sobrepeso,77,4200,sem transtorno,moderada,pré-hipertensão
+107,masculino,37,engenheiro(a),70,4,peso normal,68,7000,sem transtorno,boa,normal
+108,masculino,37,engenheiro(a),70,4,peso normal,68,7000,sem transtorno,boa,normal
+109,masculino,37,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+110,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+111,masculino,37,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+112,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+113,masculino,37,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+114,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+115,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+116,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+117,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+118,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+119,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+120,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+121,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+122,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+123,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+124,feminino,37,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+125,feminino,37,enfermeiro(a),60,4,peso normal,70,8000,sem transtorno,boa,normal
+126,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+127,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+128,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+129,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+130,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+131,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+132,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+133,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+134,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+135,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+136,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+137,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+138,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+139,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+140,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+141,masculino,38,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+142,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+143,feminino,38,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
+144,masculino,38,advogado(a),60,5,peso normal,68,8000,com transtorno,boa,pré-hipertensão
+145,feminino,38,advogado(a),60,5,obesidade,84,3300,com transtorno,boa,pré-hipertensão
+146,masculino,39,advogado(a),60,5,peso normal,68,8000,com transtorno,boa,pré-hipertensão
+147,masculino,39,engenheiro(a),40,7,sobrepeso,80,4000,com transtorno,moderada,pré-hipertensão
+148,feminino,39,advogado(a),50,6,peso normal,75,5500,sem transtorno,boa,pré-hipertensão
+149,feminino,39,contador(a),80,3,peso normal,67,7500,sem transtorno,boa,normal
+150,feminino,39,contador(a),80,3,peso normal,67,7500,sem transtorno,boa,normal
+151,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+152,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+153,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+154,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+155,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+156,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+157,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+158,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+159,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+160,masculino,39,advogado(a),60,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+161,feminino,40,contador(a),55,6,peso normal,73,7300,sem transtorno,boa,normal
+162,feminino,40,contador(a),55,6,peso normal,73,7300,sem transtorno,boa,normal
+163,masculino,40,advogado(a),90,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+164,masculino,40,advogado(a),90,5,peso normal,68,8000,sem transtorno,boa,pré-hipertensão
+165,masculino,41,advogado(a),90,5,peso normal,70,8000,com transtorno,boa,pré-hipertensão
+166,masculino,41,engenheiro(a),70,6,peso normal,72,6200,sem transtorno,boa,normal
+167,masculino,41,advogado(a),55,6,sobrepeso,72,6000,sem transtorno,boa,pré-hipertensão
+168,masculino,41,advogado(a),55,6,sobrepeso,72,6000,sem transtorno,boa,pré-hipertensão
+169,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+170,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+171,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+172,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+173,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+174,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+175,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+176,masculino,41,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+177,masculino,42,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+178,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+179,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+180,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+181,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+182,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+183,masculino,42,advogado(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+184,feminino,42,professor(a),45,7,sobrepeso,78,5000,com transtorno,moderada,pré-hipertensão
+185,feminino,42,professor(a),45,7,sobrepeso,78,5000,com transtorno,moderada,pré-hipertensão
+186,feminino,43,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+187,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+188,feminino,43,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+189,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+190,feminino,43,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+191,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+192,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+193,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+194,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+195,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+196,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+197,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+198,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+199,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+200,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+201,masculino,43,engenheiro(a),90,5,peso normal,70,8000,com transtorno,boa,pré-hipertensão
+202,masculino,43,engenheiro(a),90,5,peso normal,70,8000,com transtorno,boa,pré-hipertensão
+203,masculino,43,engenheiro(a),47,7,peso normal,69,6800,sem transtorno,moderada,normal
+204,masculino,43,engenheiro(a),75,4,sobrepeso,68,6800,sem transtorno,boa,normal
+205,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+206,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+207,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+208,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+209,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+210,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+211,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+212,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+213,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+214,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+215,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+216,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+217,masculino,43,engenheiro(a),90,5,peso normal,70,8000,sem transtorno,boa,pré-hipertensão
+218,masculino,43,engenheiro(a),90,5,peso normal,70,8000,com transtorno,boa,pré-hipertensão
+219,masculino,43,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+220,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+221,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+222,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+223,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+224,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+225,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+226,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+227,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+228,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+229,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+230,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+231,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+232,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+233,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+234,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+235,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+236,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+237,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+238,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+239,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+240,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+241,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+242,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+243,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+244,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+245,feminino,44,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+246,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,com transtorno,moderada,pré-hipertensão
+247,masculino,44,engenheiro(a),45,7,sobrepeso,78,5000,com transtorno,boa,pré-hipertensão
+248,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,sem transtorno,moderada,pré-hipertensão
+249,masculino,44,vendedor(a),45,7,sobrepeso,72,6000,sem transtorno,moderada,pré-hipertensão
+250,feminino,45,professor(a),30,6,sobrepeso,65,6000,com transtorno,boa,normal
+251,feminino,45,professor(a),30,6,sobrepeso,65,6000,com transtorno,boa,normal
+252,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+253,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+254,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+255,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+256,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+257,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+258,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+259,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+260,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
+261,feminino,45,professor(a),45,4,sobrepeso,65,6000,sem transtorno,boa,normal
+262,feminino,45,professor(a),45,4,sobrepeso,65,6000,sem transtorno,boa,normal
+263,feminino,45,gerente,55,5,sobrepeso,75,5500,sem transtorno,boa,pré-hipertensão
+264,masculino,48,medico(a),65,5,obesidade,83,3500,com transtorno,boa,hipertensão estágio 1
+265,feminino,48,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+266,masculino,48,medico(a),65,5,obesidade,83,3500,com transtorno,boa,hipertensão estágio 1
+267,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,sem transtorno,moderada,hipertensão estágio 1
+268,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+269,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+270,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+271,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+272,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+273,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+274,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+275,feminino,49,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+276,masculino,49,medico(a),85,3,obesidade,86,3700,com transtorno,boa,normal
+277,masculino,49,medico(a),85,3,obesidade,86,3700,com transtorno,boa,normal
+278,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+279,feminino,50,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+280,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,sem transtorno,moderada,hipertensão estágio 1
+281,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+282,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+283,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+284,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+285,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+286,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+287,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+288,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+289,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+290,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+291,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+292,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+293,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+294,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+295,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+296,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+297,feminino,50,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+298,feminino,51,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+299,feminino,51,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+300,feminino,51,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+301,feminino,51,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+302,feminino,51,enfermeiro(a),55,6,peso normal,72,6000,sem transtorno,boa,pré-hipertensão
+303,feminino,51,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+304,feminino,51,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+305,feminino,51,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
+306,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+307,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+308,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+309,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+310,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+311,feminino,52,contador(a),45,7,sobrepeso,72,6000,com transtorno,boa,pré-hipertensão
+312,feminino,52,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+313,feminino,52,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+314,feminino,52,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+315,feminino,53,engenheiro(a),30,3,peso normal,65,5000,com transtorno,boa,normal
+316,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+317,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+318,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+319,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+320,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+321,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+322,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+323,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+324,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+325,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+326,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+327,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+328,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+329,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+330,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+331,feminino,53,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+332,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+333,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+334,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+335,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+336,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+337,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+338,feminino,54,engenheiro(a),30,3,peso normal,65,5000,sem transtorno,boa,normal
+339,feminino,55,enfermeiro(a),75,4,sobrepeso,72,5000,com transtorno,boa,hipertensão estágio 1
+340,feminino,55,enfermeiro(a),75,4,sobrepeso,72,5000,com transtorno,boa,hipertensão estágio 1
+341,feminino,56,medico(a),90,3,peso normal,65,10000,sem transtorno,boa,normal
+342,feminino,56,medico(a),90,3,peso normal,65,10000,sem transtorno,boa,normal
+343,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,sem transtorno,boa,hipertensão estágio 1
+344,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+345,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+346,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+347,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+348,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+349,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+350,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+351,feminino,57,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+352,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+353,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+354,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+355,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+356,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+357,feminino,58,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+358,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,sem transtorno,boa,hipertensão estágio 1
+359,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,sem transtorno,boa,hipertensão estágio 1
+360,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+361,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+362,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+363,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+364,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+365,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+366,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+367,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+368,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+369,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+370,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+371,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+372,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1
+373,feminino,59,enfermeiro(a),75,3,sobrepeso,68,7000,com transtorno,boa,hipertensão estágio 1

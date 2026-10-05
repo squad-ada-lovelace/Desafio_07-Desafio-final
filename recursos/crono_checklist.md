@@ -32,8 +32,15 @@ Observações do dia:
     - Percebo que provavelmente vamos precisar de um campo para pressão baixa, normal e alta.
     - No geral, a tabela de contingência me faz questionar a qualidade do estudo e a proveniência dos dados. Desconfio que a amostragem é bem ruim, apenas 374 pessoas. Talvez seja representativo se se tratar de uma empresa.
 
-## 03/10 (sábado)
-
+## 05/10 (segunda)
+- Feature engineering:
+    - Criei a coluna de classificação de pressão para verificar como a qualidade do sono se distribui diante da pressão. Utilizei a classificação da [Sociedade Brasileira de Hipertensão](https://www.sbh.org.br/wp-content/uploads/2020/01/Revista-Hipertens%C3%A3o-Vol-19-Num-4-Out-Dez-2016.pdf). Aparentemente, a melhor qualidade de sono é quem tem a classificação "normal"
+- Pela aparente falta de lógica de algumas correlações, fui verificar o dataset original no [Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) e é um dataset sintético.
+- Chequei outliers. Aparementemente, batimentos cardíacos contam com alguns, mas considero importante manter no modelo pois pode haver um padrão.
+- Decidi iniciar pela regressão logística por se tratar de um modelo supervisionado de classificação.
+- Removi as seguintes colunas:
+    - 'ID da pessoa', , 'pressao sistolica', 'pressao diastolica'
+    - 'qualidade do sono', 'duracao do sono (min)'
 ## 04/10 (domingo)
 
 ## Checklist
@@ -45,7 +52,7 @@ Observações do dia:
 - [x] Diferenças registradas por Gênero e Faixa Etária. 
 
 - Pré-processamento:
-- [ ] Tratamento de nulos
+- [x] Tratamento de nulos
 - [ ] Encoding de categóricas e escala de numéricas.
 
 - Modelagem & Avaliação:
