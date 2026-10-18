@@ -1,10 +1,10 @@
 ,genero,idade,ocupacao,tempo diario de atividade fisica,nivel de estresse,classificacao do IMC,batimentos cardiacos,passos diarios,transtorno do sono,categoria qualidade do sono,classificacao pressao
-0,masculino,27,engenheiro(a) de software,42,6,sobrepeso,77,4200,sem transtorno,moderada,pré-hipertensão
+0,masculino,27,Outros,42,6,sobrepeso,77,4200,sem transtorno,moderada,pré-hipertensão
 1,masculino,28,medico(a),60,8,peso normal,75,10000,sem transtorno,moderada,normal
 2,masculino,28,medico(a),60,8,peso normal,75,10000,sem transtorno,moderada,normal
-3,masculino,28,representante de vendas,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
-4,masculino,28,representante de vendas,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
-5,masculino,28,engenheiro(a) de software,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+3,masculino,28,Outros,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+4,masculino,28,Outros,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
+5,masculino,28,Outros,30,8,obesidade,85,3000,com transtorno,ruim,hipertensão estágio 1
 6,masculino,29,professor(a),40,7,obesidade,82,3500,com transtorno,moderada,hipertensão estágio 1
 7,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
 8,masculino,29,medico(a),75,6,peso normal,70,8000,sem transtorno,boa,normal
@@ -67,8 +67,8 @@
 65,masculino,32,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
 66,masculino,32,contador(a),50,6,peso normal,68,7000,sem transtorno,boa,normal
 67,masculino,33,medico(a),30,8,peso normal,72,5000,com transtorno,moderada,normal
-68,feminino,33,cientista,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
-69,feminino,33,cientista,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
+68,feminino,33,Outros,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
+69,feminino,33,Outros,50,6,sobrepeso,76,5500,sem transtorno,moderada,pré-hipertensão
 70,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
 71,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
 72,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
@@ -79,11 +79,11 @@
 77,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
 78,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
 79,masculino,33,medico(a),30,8,peso normal,72,5000,sem transtorno,moderada,normal
-80,feminino,34,cientista,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
-81,feminino,34,cientista,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
+80,feminino,34,Outros,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
+81,feminino,34,Outros,32,8,sobrepeso,81,5200,com transtorno,ruim,pré-hipertensão
 82,masculino,35,professor(a),40,5,sobrepeso,70,5600,sem transtorno,boa,pré-hipertensão
 83,masculino,35,professor(a),40,5,sobrepeso,70,5600,sem transtorno,boa,pré-hipertensão
-84,masculino,35,engenheiro(a) de software,60,5,peso normal,70,8000,sem transtorno,boa,normal
+84,masculino,35,Outros,60,5,peso normal,70,8000,sem transtorno,boa,normal
 85,feminino,35,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
 86,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
 87,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
@@ -91,7 +91,7 @@
 89,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
 90,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
 91,masculino,35,engenheiro(a),60,4,peso normal,65,5000,sem transtorno,boa,normal
-92,masculino,35,engenheiro(a) de software,60,5,peso normal,70,8000,sem transtorno,boa,normal
+92,masculino,35,Outros,60,5,peso normal,70,8000,sem transtorno,boa,normal
 93,masculino,35,advogado(a),60,5,obesidade,84,3300,com transtorno,boa,pré-hipertensão
 94,feminino,36,contador(a),60,4,peso normal,68,7000,com transtorno,boa,normal
 95,feminino,36,contador(a),60,4,peso normal,68,7000,sem transtorno,boa,normal
@@ -262,7 +262,7 @@
 260,feminino,45,professor(a),45,4,sobrepeso,65,6000,com transtorno,boa,normal
 261,feminino,45,professor(a),45,4,sobrepeso,65,6000,sem transtorno,boa,normal
 262,feminino,45,professor(a),45,4,sobrepeso,65,6000,sem transtorno,boa,normal
-263,feminino,45,gerente,55,5,sobrepeso,75,5500,sem transtorno,boa,pré-hipertensão
+263,feminino,45,Outros,55,5,sobrepeso,75,5500,sem transtorno,boa,pré-hipertensão
 264,masculino,48,medico(a),65,5,obesidade,83,3500,com transtorno,boa,hipertensão estágio 1
 265,feminino,48,enfermeiro(a),90,8,sobrepeso,75,10000,com transtorno,moderada,hipertensão estágio 1
 266,masculino,48,medico(a),65,5,obesidade,83,3500,com transtorno,boa,hipertensão estágio 1
